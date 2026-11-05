@@ -7,11 +7,11 @@
   <rect x="25" y="86" width="370" height="8" rx="4" fill="#1F1F26"/>
   <rect x="25" y="86" width="315" height="8" rx="4" fill="#E63946"/>
 
-  <text x="25" y="116" fill="#F3F4F6" font-family="Fira Code, monospace" font-size="12">PHP / Python / MySQL</text>
+  <text x="25" y="116" fill="#F3F4F6" font-family="Fira Code, monospace" font-size="12">PHP / Python / MySQL / Tailwind</text>
   <rect x="25" y="124" width="370" height="8" rx="4" fill="#1F1F26"/>
   <rect x="25" y="124" width="280" height="8" rx="4" fill="#D90429"/>
 
-  <text x="25" y="154" fill="#F3F4F6" font-family="Fira Code, monospace" font-size="12">Git / GitHub / Linux / PowerShell</text>
+  <text x="25" y="154" fill="#F3F4F6" font-family="Fira Code, monospace" font-size="12">Git / GitHub / Linux / Docker</text>
   <rect x="25" y="162" width="370" height="8" rx="4" fill="#1F1F26"/>
   <rect x="25" y="162" width="250" height="8" rx="4" fill="#EF233C"/>
 </svg>
