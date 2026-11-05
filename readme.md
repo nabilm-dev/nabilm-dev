@@ -49,6 +49,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/track/3FpntWEr9yHzJRyRpFPdN8">
-    <img src="./assets/spotify.gif" alt="Now Playing Spotify" width="49%" />
+    <img src="./assets/spotify.gif" alt="Now Playing Spotify" width="100%" />
   </a>
 </div>
