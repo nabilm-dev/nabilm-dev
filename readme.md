@@ -42,7 +42,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/roadmap-card.svg" alt="Learning Roadmap" width="99%" />
+  <img src="./assets/roadmap.svg" alt="Learning Roadmap" width="99%" />
 </div>
 
 <br>
