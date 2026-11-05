@@ -1,48 +1,39 @@
-# Yooooo, I'm Nabil Maliqi Ramadhan
-### Certified LARP Developer
+<div align="center">
 
-<table>
-  <tr>
-    <td align="left">
-      <b>🚀 Role:</b> Aspiring DevOps & Data Engineer<br>
-      <b>⚡ Focus:</b> Cloud, Automation, CI/CD & Data Pipelines<br>
-      <b>🛠️ Status:</b> Learning by Doing<br>
-      <b>🎧 Fuel:</b> Music, workouts & terminal commands 🏋️‍♂️
-    </td>
-  </tr>
-</table>
+  <!-- Header Banner / GIF Ranpo -->
+  <img src="https://media1.tenor.com/m/9NjACR1YragAAAAd/ranpo-edogawa.gif" width="100%" alt="Ranpo Edogawa Banner" style="border-radius: 8px;">
 
-<p>
-  <img src="[https://img.shields.io/badge/Role-Aspiring_DevOps_%26_Data_Engineer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white](https://img.shields.io/badge/Role-Aspiring_DevOps_%26_Data_Engineer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)" /><br>
-  <img src="[https://img.shields.io/badge/Focus-Cloud%2C_Automation%2C_CI%2FCD_%26_Pipelines-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Focus-Cloud%2C_Automation%2C_CI%2FCD_%26_Pipelines-2496ED?style=for-the-badge&logo=docker&logoColor=white)" /><br>
-  <img src="[https://img.shields.io/badge/Status-Learning_by_Doing](https://img.shields.io/badge/Status-Learning_by_Doing)_🛠️-FCC624?style=for-the-badge&labelColor=black" /><br>
-  <img src="[https://img.shields.io/badge/Fuel-Music%2C_Workouts_%26_Terminal](https://img.shields.io/badge/Fuel-Music%2C_Workouts_%26_Terminal)_🎧🏋️‍♂️-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-</p>
+  <br><br>
 
-## Contact Me
-<p><a href="ababielll67" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+  <!-- Dynamic Typing SVG Header -->
+  <a href="https://github.com/nabilm-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vcenter=true&random=false&width=600&lines=Hi+there!+I'm+Nabil;Aspiring+DevOps+%26+Data+Engineer;Automating+Cloud+Infrastructure;Building+Scalable+Data+Pipelines;%E2%9A%A1+Learning+by+Doing." alt="Typing SVG" />
+  </a>
 
-## Skills
+  <p align="center">
+    <b>DevOps Explorer</b> &nbsp;•&nbsp; <b>Cloud Infrastructure</b> &nbsp;•&nbsp; <b>Data Engineering</b>
+  </p>
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
-</p>
+  <!-- Interactive Shields & Profile Views -->
+  <p align="center">
+    <a href="https://github.com/nabilm-dev">
+      <img src="https://komarev.com/ghpvc/?username=nabilm-dev&label=PROFILE+VIEWS&style=for-the-badge&color=7B2CBF" alt="Profile Views"/>
+    </a>
+    <img src="https://img.shields.io/badge/Status-Learning%20by%20Doing-101014?style=for-the-badge&logo=target&logoColor=c77dff" alt="Status"/>
+    <img src="https://img.shields.io/badge/Theme-Dark%20%26%20Cyber-0d0d11?style=for-the-badge&logo=github&logoColor=e0aaff" alt="Theme"/>
+  </p>
 
-## GitHub Stats
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nabilmal-dev&show_icons=true&count_private=true&theme=radical" alt="GitHub Statistics" />
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilmal-dev&layout=compact&theme=radical" alt="Most used languages" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilmal-dev&theme=radical" alt="GitHub Streak" />
+## ⚡ About Me
 
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=nabilmal-dev" alt="trophy" />
-
+```gcode
+> INITIALIZING DEVOPS PROTOCOLS...
+> USER: Nabil M. (nabilm-dev)
+> ROLE: Aspiring DevOps & Data Engineer
+> LOCATION: Indonesia 🇮🇩
+> PASSION: Cloud Architecture, CI/CD Automation & Data Pipelines
