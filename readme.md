@@ -48,8 +48,7 @@
 <br>
 
 <div align="center">
-  <!-- Spotify: Wish You Well - Jeff Bernat -->
   <a href="https://open.spotify.com/track/3FpntWEr9yHzJRyRpFPdN8">
-    <img src="https://spotify-readme.vercel.app/api/share?uid=jeffbernat&uri=spotify:track:3FpntWEr9yHzJRyRpFPdN8&theme=ambient&show_offline=true&interchange=true" alt="Now Playing: Wish You Well" style="border-radius: 8px;" />
+    <img src="./assets/spotify.gif" alt="Now Playing Spotify" width="49%" />
   </a>
 </div>
