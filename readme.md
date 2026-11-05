@@ -36,15 +36,20 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+  <!-- GitHub Badge -->
   <a href="https://github.com/nabilm-dev">
     <img src="https://img.shields.io/badge/GITHUB-nabilm--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://instagram.com/nabilm_dev">
+  
+  <!-- Instagram Badge -->
+  <a href="https://instagram.com/_nbilbil">
     <img src="https://img.shields.io/badge/INSTAGRAM-_nbilbil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:kakamuhamad0187@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-nabilm.dev@gmail.com-D90429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  
+  <!-- Email Badge -->
+  <a href="mailto:nabilm.dev">
+    <img src="https://img.shields.io/badge/EMAIL-nabilm.dev-D90429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
