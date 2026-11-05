@@ -1,15 +1,18 @@
 <div align="center">
 
+  <!-- Banner GIF Ranpo Edogawa -->
   <img src="./assets/ranpo-banner.gif" width="100%" alt="Ranpo Edogawa Banner" style="border-radius: 8px;">
 
   <br><br>
 
+  <!-- Typing SVG Text -->
   <a href="https://github.com/nabilm-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vcenter=true&random=false&width=600&lines=Hi+there!+I'm+Nabil;Web+Developer+%26+Tech+Explorer;Building+with+HTML,+CSS,+JS,+PHP+%26+SQL;Exploring+DevOps+%26+Cloud+Engineering;%E2%9A%A1+Learning+by+Doing." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vcenter=true&random=false&width=600&lines=Hi+there!+I'm+Nabil;Web+Developer+%26+Tech+Explorer;Building+with+HTML,+CSS,+JS,+PHP+%26+Python;Exploring+DevOps+%26+Cloud+Engineering;%E2%9A%A1+Learning+by+Doing." alt="Typing SVG" />
   </a>
 
   <p><b>Web Development</b> • <b>Backend & SQL</b> • <b>Aspiring DevOps</b></p>
 
+  <!-- Profile Views & Badges -->
   <p>
     <a href="https://github.com/nabilm-dev">
       <img src="https://komarev.com/ghpvc/?username=nabilm-dev&label=PROFILE+VIEWS&style=for-the-badge&color=D90429" alt="Profile Views"/>
@@ -25,7 +28,8 @@
 ### 🛠️ Tech Stack & Daily Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,powershell&perline=9&theme=dark" alt="Tech Stack" />
+  <!-- 12 Icon simetris (6 icon per baris) -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql,git,github,vscode,powershell,linux,md&perline=6&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br>
