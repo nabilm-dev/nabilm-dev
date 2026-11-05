@@ -20,7 +20,7 @@
     <a href="https://instagram.com/_nbilbil">
       <img src="https://img.shields.io/badge/INSTAGRAM-_nbilbil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="mailto:nabilm.dev">
+    <a href="mailto:nabilmal.dev">
       <img src="https://img.shields.io/badge/EMAIL-nabilm.dev-D90429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </p>
 
