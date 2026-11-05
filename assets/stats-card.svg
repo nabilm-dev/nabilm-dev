@@ -1,17 +1,18 @@
 <svg width="420" height="190" viewBox="0 0 420 190" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="418" height="188" rx="10" fill="#0D0D11" stroke="#E63946" stroke-width="1.5"/>
-  <text x="25" y="38" fill="#E63946" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700" font-size="18">⚡ Nabil's System Status</text>
-  <line x1="25" y1="52" x2="395" y2="52" stroke="#1F1F26" stroke-width="1"/>
-  
-  <text x="25" y="82" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Role        :</text>
-  <text x="145" y="82" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">DevOps &amp; Data Engineer</text>
+  <rect x="1" y="1" width="418" height="188" rx="10" fill="#0D0D11" stroke="#E63946" stroke-width="1.5" />
+  <text x="25" y="38" fill="#E63946" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700" font-size="18">System Status</text>
+  <line x1="25" y1="52" x2="395" y2="52" stroke="#1F1F26" stroke-width="1" />
 
-  <text x="25" y="110" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Focus       :</text>
-  <text x="145" y="110" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">Cloud Infra &amp; Pipelines</text>
+  <text x="25" y="82" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Role :</text>
+  <text x="100" y="82" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">Web Dev</text>
 
-  <text x="25" y="138" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Environment :</text>
-  <text x="145" y="138" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">Linux / Docker / Cloud</text>
+  <text x="25" y="112" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Focus :</text>
+  <text x="100" y="112" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">Backend and Pipelines</text>
 
-  <text x="25" y="166" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Status      :</text>
-  <text x="145" y="166" fill="#EF233C" font-family="Fira Code, monospace" font-weight="700" font-size="13">● Learning by doing</text>
+  <text x="25" y="142" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Env :</text>
+  <text x="100" y="142" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">Laragon / VS Code</text>
+
+  <text x="25" y="170" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Status :</text>
+  <circle cx="105" cy="166" r="4" fill="#EF233C" />
+  <text x="118" y="170" fill="#EF233C" font-family="Fira Code, monospace" font-weight="600" font-size="13">Learning by Doing</text>
 </svg>
