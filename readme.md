@@ -22,8 +22,6 @@
     </a>
     <a href="mailto:nabilm.dev">
       <img src="https://img.shields.io/badge/EMAIL-nabilm.dev-D90429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <img src="https://img.shields.io/badge/Status-Learning%20by%20Doing-101014?style=for-the-badge&logo=target&logoColor=EF233C" alt="Status"/>
   </p>
 
 </div>
