@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header GIF (Ranpo Edogawa) -->
-  <img src="https://media1.tenor.com/m/9NjACR1YragAAAAd/ranpo-edogawa.gif" width="100%" alt="Nabil Banner" style="border-radius: 8px;">
+  <img src="https://media1.tenor.com/m/8p_d7WPPKx4AAAAd/ranpo-edogawa-ranpo.gif" width="100%" alt="Nabil Banner" style="border-radius: 8px;">
 
   <br><br>
 
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 ```gcode
 > INITIALIZING DEVOPS PROTOCOLS...
