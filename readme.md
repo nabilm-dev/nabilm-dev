@@ -1,18 +1,15 @@
 <div align="center">
 
-  <!-- Banner GIF -->
-  <img src="https://media1.tenor.com/m/W_f7ZkhR80IAAAAC/ranpo-ranpo-edogawa.gif" width="100%" alt="Ranpo Edogawa Banner" style="border-radius: 8px;">
+  <img src="./assets/ranpo-banner.gif" width="100%" alt="Ranpo Edogawa Banner" style="border-radius: 8px;">
 
-<br><br>
+  <br><br>
 
-  <!-- Typing SVG -->
   <a href="https://github.com/nabilm-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vcenter=true&random=false&width=600&lines=Hi+there!+I'm+Nabil;Aspiring+DevOps+%26+Data+Engineer;Automating+Cloud+Infrastructure;Building+Scalable+Data+Pipelines;%E2%9A%A1+Learning+by+Doing." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vcenter=true&random=false&width=600&lines=Hi+there!+I'm+Nabil;Web+Developer+%26+Tech+Explorer;Building+with+HTML,+CSS,+JS,+PHP+%26+SQL;Exploring+DevOps+%26+Cloud+Engineering;%E2%9A%A1+Learning+by+Doing." alt="Typing SVG" />
   </a>
 
-  <p><b>DevOps Explorer</b> • <b>Cloud Infrastructure</b> • <b>Data Engineering</b></p>
+  <p><b>Web Development</b> • <b>Backend & SQL</b> • <b>Aspiring DevOps</b></p>
 
-  <!-- Badges -->
   <p>
     <a href="https://github.com/nabilm-dev">
       <img src="https://komarev.com/ghpvc/?username=nabilm-dev&label=PROFILE+VIEWS&style=for-the-badge&color=D90429" alt="Profile Views"/>
@@ -25,27 +22,23 @@
 
 <hr style="border: 1px solid #1f1f24;">
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Daily Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,gcp,terraform,ansible,githubactions,python,postgres,git&perline=6&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,powershell&perline=9&theme=dark" alt="Tech Stack" />
 </div>
 
 <br>
 
-### 📊 GitHub Analytics & Top Languages
+### 📊 Profile & Learning Roadmap
 
 <div align="center">
-  <img src="./assets/stats-card.svg" alt="GitHub Stats" height="170" />
-  <img src="./assets/languages-card.svg" alt="Top Languages" height="170" />
+  <img src="./assets/stats-card.svg" alt="System Status" width="49%" />
+  <img src="./assets/languages-card.svg" alt="Languages and Tools" width="49%" />
 </div>
 
 <br>
 
-### 🎯 Current Target/Roadmap
-
 <div align="center">
-  <a href="https://github.com/nabilm-dev">
-    <img src="./assets/projects-card.svg" alt="Featured Projects" />
-  </a>
+  <img src="./assets/roadmap-card.svg" alt="Learning Journey" width="99%" />
 </div>
