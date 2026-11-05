@@ -28,13 +28,8 @@
 ### 🛠️ Tech Stack & Daily Tools
 
 <div align="center">
-<<<<<<< Updated upstream
-  <!-- 12 Icon: HTML, CSS, JS, PHP, Python, MySQL, Git, GitHub, VS Code, Docker, Linux, Tailwind/Bootstrap -->
+  <!-- 12 Icon: HTML, CSS, JS, PHP, Python, MySQL, Git, GitHub, VS Code, Docker, Linux, Tailwind -->
   <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql,git,github,vscode,docker,linux,tailwind&perline=6&theme=dark" alt="Tech Stack Icons" />
-=======
-  <!-- 12 Icon simetris (6 icon per baris: HTML, CSS, JS, PHP, Python, MySQL, Git, GitHub, VS Code, PowerShell, Linux, Markdown) -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql,git,github,vscode,powershell,linux,md&perline=6&theme=dark" alt="Tech Stack Icons" />
->>>>>>> Stashed changes
 </div>
 
 <br>
@@ -49,9 +44,14 @@
 <br>
 
 <div align="center">
-  <img src="./assets/roadmap.svg" alt="Learning Journey" width="99%" />
-<<<<<<< Updated upstream
+  <img src="./assets/roadmap-card.svg" alt="Learning Journey" width="99%" />
 </div>
-=======
+
+<br>
+
+<div align="center">
+  <!-- Spotify Now Playing Card: Wish You Well - Jeff Bernat -->
+  <a href="https://open.spotify.com/track/3FpntWEr9yHzJRyRpFPdN8">
+    <img src="https://spotify-readme.vercel.app/api/share?uid=jeffbernat&uri=spotify:track:3FpntWEr9yHzJRyRpFPdN8&theme=ambient&show_offline=true&interchange=true" alt="Now Playing: Wish You Well - Jeff Bernat" style="border-radius: 8px;" />
+  </a>
 </div>
->>>>>>> Stashed changes

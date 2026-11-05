@@ -1,22 +1,25 @@
 <svg width="850" height="135" viewBox="0 0 850 135" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="848" height="133" rx="10" fill="#0D0D11" stroke="#E63946" stroke-width="1.5"/>
+  <rect x="1" y="1" width="848" height="133" rx="10" fill="#0D0D11" stroke="#E63946" stroke-width="1.5" />
   
-  <text x="30" y="38" fill="#E63946" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700" font-size="17">🎯 CURRENT LEARNING ROADMAP &amp; LABS</text>
-  <line x1="30" y1="50" x2="820" y2="50" stroke="#1F1F26" stroke-width="1"/>
+  <text x="30" y="38" fill="#E63946" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700" font-size="17">🎯 CURRENT LEARNING ROADMAP & LABS</text>
+  <line x1="30" y1="50" x2="820" y2="50" stroke="#1F1F26" stroke-width="1" />
 
-  <text x="30" y="78" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">01. Cloud &amp; Containers</text>
+  <!-- Kolom 1: Cloud & Containers -->
+  <text x="30" y="78" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">01. Cloud & Containers</text>
   <text x="30" y="100" fill="#9CA3AF" font-family="Segoe UI, sans-serif" font-size="12">Dockerizing apps, Linux server</text>
-  <text x="30" y="116" fill="#9CA3AF" font-family="Segoe UI, sans-serif" font-size="12">admin &amp; cloud deployment.</text>
+  <text x="30" y="116" fill="#9CA3AF" font-family="Segoe UI, sans-serif" font-size="12">admin & cloud deployment.</text>
 
-  <line x1="295" y1="60" x2="295" y2="120" stroke="#1F1F26" stroke-width="1.5"/>
+  <line x1="295" y1="60" x2="295" y2="120" stroke="#1F1F26" stroke-width="1.5" />
 
-  <text x="320" y="78" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">02. CI/CD &amp; Automation</text>
-  <text x="320" y="100" fill="#9CA3AF" font-family="Segoe UI, sans-serif" font-size="12">GitHub Actions workflows, shell</text>
-  <text x="320" y="116" fill="#9CA3AF" font-family="Segoe UI, sans-serif" font-size="12">scripting &amp; auto-provisioning.</text>
+  <!-- Kolom 2: Web Development (Diganti) -->
+  <text x="320" y="78" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">02. Web Development</text>
+  <text x="320" y="100" fill="#9CA3AF" font-family="Segoe UI, sans-serif" font-size="12">HTML, CSS, JS, PHP apps, &</text>
+  <text x="320" y="116" fill="#9CA3AF" font-family="Segoe UI, sans-serif" font-size="12">Laragon local environment.</text>
 
-  <line x1="585" y1="60" x2="585" y2="120" stroke="#1F1F26" stroke-width="1.5"/>
+  <line x1="585" y1="60" x2="585" y2="120" stroke="#1F1F26" stroke-width="1.5" />
 
+  <!-- Kolom 3: Data Engineering -->
   <text x="610" y="78" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">03. Data Engineering</text>
   <text x="610" y="100" fill="#9CA3AF" font-family="Segoe UI, sans-serif" font-size="12">Building ETL pipelines, SQL</text>
-  <text x="610" y="116" fill="#9CA3AF" font-family="Segoe UI, sans-serif" font-size="12">optimization &amp; data modeling.</text>
+  <text x="610" y="116" fill="#9CA3AF" font-family="Segoe UI, sans-serif" font-size="12">optimization & data modeling.</text>
 </svg>
