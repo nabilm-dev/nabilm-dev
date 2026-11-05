@@ -24,6 +24,30 @@
 
 <hr style="border: 1px solid #1f1f24;">
 
+### 🌸 About Me
+
+* 🎯 Focused on web development & cloud engineering
+* 💻 Building custom educational tools and web apps
+* ⚡ Main stack: HTML, CSS, JavaScript, PHP & Python
+* 🌱 Exploring DevOps and Cloud infrastructure
+* 📌 GitHub: [@nabilm-dev](https://github.com/nabilm-dev)
+
+<hr style="border: 1px solid #1f1f24;">
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/nabilm-dev">
+    <img src="https://img.shields.io/badge/GITHUB-nabilm--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/nabilm_dev">
+    <img src="https://img.shields.io/badge/INSTAGRAM-_nbilbil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:kakamuhamad0187@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-nabilm.dev@gmail.com-D90429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -54,3 +78,6 @@
     <img src="./assets/spotify.gif" alt="Now Playing Spotify" width="99%" />
   </a>
 </div>
+
+<br>
+
