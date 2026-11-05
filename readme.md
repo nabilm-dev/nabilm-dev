@@ -28,8 +28,8 @@
 ### 🛠️ Tech Stack & Daily Tools
 
 <div align="center">
-  <!-- 12 Icon simetris (6 icon per baris: HTML, CSS, JS, PHP, Python, MySQL, Git, GitHub, VS Code, PowerShell, Linux, Markdown) -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql,git,github,vscode,powershell,linux,md&perline=6&theme=dark" alt="Tech Stack Icons" />
+  <!-- 12 Icon: HTML, CSS, JS, PHP, Python, MySQL, Git, GitHub, VS Code, Docker, Linux, Tailwind/Bootstrap -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql,git,github,vscode,docker,linux,tailwind&perline=6&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br>
