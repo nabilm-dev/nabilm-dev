@@ -12,10 +12,16 @@
 
   <p><b>Web Development</b> • <b>Backend & SQL</b> • <b>Aspiring DevOps</b></p>
 
-  <!-- Badges -->
+  <!-- Sosmed Badge Pengganti Profile Views di Atas -->
   <p>
     <a href="https://github.com/nabilm-dev">
-      <img src="https://komarev.com/ghpvc/?username=nabilm-dev&label=PROFILE+VIEWS&style=for-the-badge&color=D90429" alt="Profile Views"/>
+      <img src="https://img.shields.io/badge/GITHUB-nabilm--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://instagram.com/_nbilbil">
+      <img src="https://img.shields.io/badge/INSTAGRAM-_nbilbil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:nabilm.dev">
+      <img src="https://img.shields.io/badge/EMAIL-nabilm.dev-D90429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <img src="https://img.shields.io/badge/Status-Learning%20by%20Doing-101014?style=for-the-badge&logo=target&logoColor=EF233C" alt="Status"/>
   </p>
@@ -33,25 +39,6 @@
 * 📌 GitHub: [@nabilm-dev](https://github.com/nabilm-dev)
 
 <hr style="border: 1px solid #1f1f24;">
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <!-- GitHub Badge -->
-  <a href="https://github.com/nabilm-dev">
-    <img src="https://img.shields.io/badge/GITHUB-nabilm--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-  <!-- Instagram Badge -->
-  <a href="https://instagram.com/_nbilbil">
-    <img src="https://img.shields.io/badge/INSTAGRAM-_nbilbil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  
-  <!-- Email Badge -->
-  <a href="mailto:nabilm.dev">
-    <img src="https://img.shields.io/badge/EMAIL-nabilm.dev-D90429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 ### 🛠️ Tech Stack
 
@@ -83,6 +70,3 @@
     <img src="./assets/spotify.gif" alt="Now Playing Spotify" width="99%" />
   </a>
 </div>
-
-<br>
-
