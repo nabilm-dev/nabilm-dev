@@ -46,10 +46,11 @@
 </div>
 
 <br>
+
 ### 🎧 Listening to
 
 <div align="center">
   <a href="https://open.spotify.com/track/3FpntWEr9yHzJRyRpFPdN8">
-    <img src="./assets/spotify.gif" alt="Now Playing Spotify" width="100%" />
+    <img src="./assets/spotify.gif" alt="Now Playing Spotify" width="99%" />
   </a>
 </div>
