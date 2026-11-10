@@ -28,7 +28,7 @@
 
 <hr style="border: 1px solid #1f1f24;">
 
-### 🌸 About Me
+### 🌸 About Me!
 
 * 🎯 Focused on web development & cloud engineering
 * 💻 Building custom educational tools and web apps
