@@ -4,15 +4,15 @@
   <line x1="25" y1="52" x2="395" y2="52" stroke="#1F1F26" stroke-width="1" />
 
   <text x="25" y="82" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Role :</text>
-  <text x="100" y="82" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">Web Dev</text>
+  <text x="100" y="82" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">Data Engineer</text>
 
   <text x="25" y="112" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Focus :</text>
-  <text x="100" y="112" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">Backend and Pipelines</text>
+  <text x="100" y="112" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">ETL and Data Pipelines</text>
 
   <text x="25" y="142" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Env :</text>
-  <text x="100" y="142" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">Laragon / VS Code</text>
+  <text x="100" y="142" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="600" font-size="13">Python / SQL / VS Code</text>
 
   <text x="25" y="170" fill="#9CA3AF" font-family="Fira Code, monospace" font-size="13">Status :</text>
   <circle cx="105" cy="166" r="4" fill="#EF233C" />
-  <text x="118" y="170" fill="#EF233C" font-family="Fira Code, monospace" font-weight="600" font-size="13">Learning by Doing</text>
+  <text x="118" y="170" fill="#EF233C" font-family="Fira Code, monospace" font-weight="600" font-size="13">Building Pipelines</text>
 </svg>

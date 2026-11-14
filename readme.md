@@ -7,10 +7,10 @@
 
   <!-- Typing SVG -->
   <a href="https://github.com/nabilm-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vcenter=true&random=false&width=600&lines=Hi+there!+I'm+Nabil;Web+Developer+%26+Tech+Explorer;Building+with+HTML,+CSS,+JS,+PHP+%26+Python;Exploring+DevOps+%26+Cloud+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vcenter=true&random=false&width=600&lines=Hi+there!+I'm+Nabil;Web+Developer+%26+Data+Enthusiast;Building+with+HTML,+CSS,+JS,+PHP+%26+Python;Learning+Data+Engineering+%26+ETL+Pipelines" alt="Typing SVG" />
   </a>
 
-  <p><b>Web Development</b> • <b>Backend & SQL</b> • <b>Aspiring DevOps</b></p>
+  <p><b>Web Development</b> • <b>Backend & SQL</b> • <b>Aspiring Data Engineer</b></p>
 
   <!-- Sosmed Badge Pengganti Profile Views di Atas -->
   <p>
@@ -30,10 +30,10 @@
 
 ### 🌸 About Me!
 
-* 🎯 Focused on web development & cloud engineering
+* 🎯 Focused on web development & data engineering
 * 💻 Building custom educational tools and web apps
-* ⚡ Main stack: HTML, CSS, JavaScript, PHP & Python
-* 🌱 Exploring DevOps and Cloud infrastructure
+* ⚡ Main stack: HTML, CSS, JavaScript, PHP, Python & SQL
+* 🌱 Exploring ETL pipelines, data modeling & database optimization
 * 📌 GitHub: [@nabilm-dev](https://github.com/nabilm-dev)
 
 <hr style="border: 1px solid #1f1f24;">
@@ -41,7 +41,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql,git,github,vscode,docker,linux,tailwind&perline=6&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql,postgres,mongodb,git,vscode,laravel,fastapi&perline=6&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br>
